@@ -1,0 +1,9 @@
+opencv-python
+numpy
+matplotlib
+seaborn
+pandas
+streamlit
+torch
+torchvision
+easyocr
